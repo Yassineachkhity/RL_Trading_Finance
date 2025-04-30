@@ -190,6 +190,8 @@ By the end of this project, we should achieve the following:
 - **Stable-Baselines3 Documentation**: [https://stable-baselines3.readthedocs.io/](https://stable-baselines3.readthedocs.io/)
 - **RL Tutorials**: Search for "reinforcement learning trading tutorial" or "FinRL tutorial."
 
+ **Note** MyCoRL Approach is my propre approach that we will test at the end of project 
+
 
 ---
 
