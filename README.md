@@ -7,7 +7,7 @@ This project downloads historical stock data for Apple Inc. (AAPL), processes it
 - Data download using yfinance
 - Missing data handling
 - Feature scaling
-- Technical indicators calculation using FinRL/stockstats:
+- Technical indicators calculation using stockstats:
   - MACD (Moving Average Convergence Divergence)
   - RSI (Relative Strength Index)
   - Bollinger Bands
